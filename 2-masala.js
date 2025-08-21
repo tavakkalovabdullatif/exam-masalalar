@@ -165,7 +165,7 @@ function task(students) {
   if (filterStudents.length === 0) return 0;
 
   const firstNameLength = filterStudents[0].length; 
-  const lastNameLength = filterStudents[filterStudents.length - 2].length;
+  const lastNameLength = filterStudents[filterStudents.length - 1].length;
 
   return Math.abs(firstNameLength - lastNameLength); 
 

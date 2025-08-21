@@ -35,8 +35,46 @@
 // natijani konsolga chiqaramiz
 
 // --------------------------------------------------- 2-masala:----------------------------------------------------------------
-// 153-qator:
-// 
+// 153-qator
+// students arrayidan qizlarni o'zini o'qiydigan fanlarini alifbo tartibida tartiblashimiz uchun bizga funsiya kerak bu funksiya bu yerdan boshlandi
+
+// 154/158-qator
+// buning uchun bizga bir ozgaruvchi kerak bu ozgaruvchini includeMajors deb ataymiz va unga o'qiydigan fanlar arrayini beramiz
+
+// 160-qator
+//  filterStudents degan o`zgaruvchini ochib olib uni students arrayiga tenglaboldik bu bizga students arrayini ustida filter map sort metodlaridan foydalanishimizga yordam beradi
+
+// 161-qator
+// filterStudents o'zgaruvchisida filter metodini ishlatib qiz bola bo'lgan va o'qiydigan fanlari includeMajors arrayida bo'lmaganlarni tanlab oldik 
+
+// 162-qator
+//  filterStudents o'zgaruvchisida map metodini ishlatib qizlarning ismlarini olish uchun har bir o'quvchini tanlab oldik
+
+// 163-qator
+// filterStudents o'zgaruvchisida sort metodini ishlatib, olingan ismlarni alifbo tartibida tartibladik
+
+// 165-qator
+// agar filterStudents o'zgaruvchisining uzunligi 0 ga teng bo'lsa 0 qaytaramiz chunki qiz bola bo'lgan o'quvchilar yo'q
+
+// 167-qator
+// firstNameLength o'zgaruvchisiga filterStudents o'zgaruvchisining birinchi elementining uzunligini olamiz
+
+// 168-qator
+// lastNameLength o'zgaruvchisiga filterStudents o'zgaruvchisining oxirgi elementining uzunligini olamiz va uni olish uchun filterStudents.length - 1 ishlatamiz chunki oxirgi elementni olish uchun length - 1 ishlatamiz
+
+// 170-qator
+// math.abs bilan firstNameLength va lastNameLength o'zgaruvchilari orasidagi farqni olamiz va uni return bilan qaytaramiz
+
+// 172-qator
+// bu yerda task funksiyasi tugadi
+
+// 174-qator
+// task funksiyasini chaqirib, students arrayini unga beramiz va result o'zgaruvchisiga tenglaymiz
+
+// 176-qator
+// result o'zgaruvchisining qiymatini konsolga chiqaramiz 
+
+
 
 // ---------------------------------------------------- 3-masala:-----------------------------------------------------------------
 // 162/169-qator:
